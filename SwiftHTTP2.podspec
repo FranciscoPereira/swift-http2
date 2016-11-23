@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'SwiftHTTP2'
-  s.summary = 'Swift GRPC library adaptor'
+  s.summary = 'A very simple HTTP/2 library for Swift.'
   s.homepage = 'https://github.com/nathanborror/swift-http2'
   s.author = 'Nathan Borror'
   s.source = { :git => 'https://github.com/nathanborror/swift-http2.git', :tag => s.version }
